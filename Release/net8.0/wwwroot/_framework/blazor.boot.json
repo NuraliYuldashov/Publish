@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "UPG.Admin",
   "resources": {
-    "hash": "sha256-XTJCPoJQ3HCtUoLPMQP7rne0ZnmG6T9G3x8iPz+BLdk=",
+    "hash": "sha256-uQEhYdrB7hD1XGeX3990Lu4RK+z7QMHIEieNLMYK6Rk=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.jwt0zi3t9t.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -212,10 +212,10 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "UPG.Admin.wasm": "sha256-JpNuX8wA3F5rAHnkKMWYR8L/WqIenG7oKFT2bg8LLyM="
+      "UPG.Admin.wasm": "sha256-bN63P61pLnF/APX4jBgGLci9Gj+Ik8U7aRNr3UsE9PE="
     },
     "pdb": {
-      "UPG.Admin.pdb": "sha256-pEakPT8VGpF91QAkD/Ft3VDcUd8neIu0dBLrX3d8q0o="
+      "UPG.Admin.pdb": "sha256-d7ZQ3h2/85PzNjPyEoLLM2CFwd062efBlV6y8JWkJVg="
     }
   },
   "cacheBootResources": true,
